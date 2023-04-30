@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Dan's Demise.mp3-7c7439a0405f89d949c8026813d1ea44.mp3str"
+
+[deps]
+
+source_file="res://Assets/Dan's Demise.mp3"
+dest_files=[ "res://.import/Dan's Demise.mp3-7c7439a0405f89d949c8026813d1ea44.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
